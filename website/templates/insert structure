@@ -1,0 +1,42 @@
+ABOUT
+	Breadcrumb AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	About Us  auauauauauaua
+	Cool Facts    f   f    f    f 
+	Testimonials t/t/t/t/t/t/t/tt/t/tt
+	Our Dentist   d d ds
+APPOINTMENT
+	Breadcrumb AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	Contact c-c-c-c-c-c-c-c-c-c-c-c-c-c-c-c
+BASE
+  	{% load static %}<!DOCTYPE html><html lang="en">    meta    title    links head
+    PRELOADER
+    	TOP HEADER --content - social info
+    	MAIN HEADER   - classy menu - log - 
+    			navbar - menu - close button - nav start - booking now
+    {% BLOCK %}    {% BLOCK %}    {% BLOCK %}    {% BLOCK %}    {% BLOCK %}    {% BLOCK %}
+  		FOOTER 
+    	contact info - open hours - quik links - Newsletter form - social link - copywrite
+    	JS
+CONTACT
+	Breadcrumb AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	Contact c-c-c-c-c-c-c-c-c-c-c-c-c-c-c-c
+	Video 17-31           1
+HOME
+	Welcome              1
+	About Us             auauauauauaua
+	Cool Facts            f   f    f    f 
+	Our Service         d  d  ds
+	Video 1-16            1
+	Design Pricing Table	  ptptp
+	Book An Oppointment     1
+	Our Designers          d  d  ds
+	Testimonials          t/t/t/t/t/t/t/tt/t/tt
+	Blog           b   l   o    g
+PRICING
+	Breadcrumb AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	Design Pricing Table   ptptp
+SERVICE
+	Breadcrumb AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	Services              1
+	Testimonials tt/t/t/t/t/t/t/t/t/t/t
+	Blog         b  l  o  g 
